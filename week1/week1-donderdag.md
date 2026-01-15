@@ -30,6 +30,6 @@ Ik heb de design van ons prototype hermaakt met mijn team en de structuur van de
 
 > **Algemeen gevoel:**
 >
-> - **"Blij"** 😊
+> - **"Blij"** 😊 
 
 ---
