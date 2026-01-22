@@ -20,6 +20,7 @@ Vandaag heb ik gewerkt aan de redesign van het project met als doel een werkende
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
 - Ik heb geleerd hoe ik Figma Dev Mode kan gebruiken. Ik wist niet dat Figma zoveel mogelijkheden had. Het maakt het ook veel gemakkelijker voor developers, omdat je automatisch alle nodige details voor CSS kan terugvinden zoals pixels, kleuren, margins, enzovoort.
+- Ik heb geleerd hoe ik Figma Dev Mode kan gebruiken. Ik wist niet dat Figma zoveel mogelijkheden had. Het maakt het ook veel gemakkelijker voor developers, omdat je automatisch alle nodige details voor CSS kan terugvinden zoals pixels, kleuren, margins, enzovoort.
 
 > **Nieuwe skills:**
 >
